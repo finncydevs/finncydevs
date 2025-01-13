@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Finn a student from a small town<br>i currently still learning <br>im now developing Whatsapp bot!
+I'm Finn a student from a small town<br>im currently still learning <br>im now developing Whatsapp bot!
 
 
 ## 🌐 Socials:
